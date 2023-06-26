@@ -170,7 +170,7 @@
       grid-template-columns: 1fr;
     }
   }
-.button {
+.boton {
     background-color: rgb(5, 132, 182);
     color: white;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -212,7 +212,7 @@
     border-radius: 5px;
   }
   
-  button {
+  .boton {
     background-color: #4CAF50;
     color: white;
     padding: 10px 20px;
@@ -222,7 +222,7 @@
     font-size: 16px;
   }
   
-  button:hover {
+  .boton:hover {
     background-color: #45a049;
   }
 
