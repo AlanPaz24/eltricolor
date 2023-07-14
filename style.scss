@@ -329,3 +329,9 @@
 .form-group button:hover {
   background-color: #1c33fc;
 }
+
+$color1: rgb(240, 240, 240);
+
+.contenedor-plantel h2{
+    color: $color1;
+}
