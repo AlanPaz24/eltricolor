@@ -40,10 +40,11 @@
 .nota {
   width: 100%;
   padding: 10px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family:sans-serif;
   color: white;
   box-shadow: 0 0 60px red;
   border-radius: 15px;
+  font-size: small;
 }
 
 .imgArticulo img {
